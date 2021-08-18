@@ -1,2 +1,3 @@
 # Kaggle-30-Days-of-ML
-It contains all my submissions to the competetion.
+
+It includes all of my competition submissions. I mostly changed my submissions after learning from others' submissions especially Abhishek Thakur.
